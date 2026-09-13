@@ -1,0 +1,5 @@
+Name,Skills,Experience,Education,Source_File,Match_Score (%),Rank
+Priya Sharma,"Python, SQL, Machine Learning, Pandas, Data Analysis, Statistics, Deep Learning, Tableau","4 years as a Data Analyst and Junior Data Scientist at Infosys, working on customer churn prediction and sales forecasting models.","Master of Science in Data Science, Punjab University, 2020",resume_priya_sharma.txt,41.79,1
+Arjun Nair,"Python, Pandas, Data Analysis, SQL, Tableau, Statistics",3 years,"Bachelor of Science in Statistics, Mumbai University, 2021",resumes_batch.csv,38.37,2
+Karan Verma,"Python, SQL, Machine Learning, Statistics, NLP, AWS",5 years,"Master of Technology in Artificial Intelligence, IIT Delhi, 2019",resumes_batch.csv,28.31,3
+Rohan Mehta,"Java, Python, SQL, Data Analysis, Excel","2 years as a Software Engineer at TCS, occasionally working on reporting dashboards and SQL queries.","Bachelor of Technology in Computer Science, Delhi University, 2022",resume_rohan_mehta.txt,16.61,4

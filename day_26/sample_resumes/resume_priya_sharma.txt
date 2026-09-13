@@ -1,0 +1,10 @@
+Name: Priya Sharma
+Email: priya.sharma@email.com
+Phone: 98765-43210
+
+Skills: Python, SQL, Machine Learning, Pandas, Data Analysis, Statistics, Deep Learning, Tableau
+
+Experience: 4 years as a Data Analyst and Junior Data Scientist at Infosys, working on
+customer churn prediction and sales forecasting models.
+
+Education: Master of Science in Data Science, Punjab University, 2020

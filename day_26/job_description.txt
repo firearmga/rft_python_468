@@ -1,0 +1,5 @@
+Looking for a Data Scientist experienced in Python, SQL, Machine Learning,
+Data Analysis, Pandas, and Statistics. Familiarity with Deep Learning, NLP,
+Tableau, and AWS is a plus. Bachelor's or Master's degree in Computer Science,
+Data Science, Statistics, or a related field required. Minimum 3 years of
+relevant experience preferred.

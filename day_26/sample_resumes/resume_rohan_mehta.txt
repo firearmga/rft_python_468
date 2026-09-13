@@ -1,0 +1,10 @@
+Name: Rohan Mehta
+Email: rohan.mehta@email.com
+Phone: 91234-56780
+
+Skills: Java, Python, SQL, Data Analysis, Excel
+
+Experience: 2 years as a Software Engineer at TCS, occasionally working on reporting
+dashboards and SQL queries.
+
+Education: Bachelor of Technology in Computer Science, Delhi University, 2022
